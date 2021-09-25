@@ -26,10 +26,10 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Nanjing University
-    year: 2021
+    year: 2021 - 
   - course: BSc in GIS
     institution: Nanjing University
-    year: 2017
+    year: 2017 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
