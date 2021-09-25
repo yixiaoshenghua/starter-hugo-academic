@@ -47,7 +47,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/yixiaoshenghua
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -66,6 +66,6 @@ email: ""
 highlight_name: true
 ---
 
-I received my B.Sc. degree from Nanjing University, in June 2021. In the same year, I was admitted to study for a Ph.D. degree in Nanjing University without entrance examination in the LAMDA Group led by professor Zhi-Hua Zhou, under the supervision of Prof. De-Chuan Zhan.
+I received my B.Sc. degree from Nanjing University, in June 2021. In the same year, I was admitted to study for a Ph.D. degree in Nanjing University without entrance examination in the [LAMDA](http://www.lamda.nju.edu.cn/) Group led by professor Zhi-Hua Zhou, under the supervision of Prof. De-Chuan Zhan.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
