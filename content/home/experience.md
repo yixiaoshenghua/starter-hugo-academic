@@ -25,7 +25,7 @@ experience:
   - title: Leader
     company: NJU Artificial Intelligence Association
     company_url: 'https://njuaia.github.io/'
-    company_logo: NJU-AIA
+    # company_logo: 
     location: Nanjing
     date_start: '2020-09-01'
     date_end: ''
