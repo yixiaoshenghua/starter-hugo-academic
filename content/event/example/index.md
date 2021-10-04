@@ -1,28 +1,21 @@
 ---
-title: Example Talk
+title: xDIO
 
-event: Wowchemy Conference
+event: paper talk
 event_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Talk for tha paper "Cross-domain imitation from observation".
+abstract: "Cross-domain RL is a novel issue which aims to solve the RL problem under agent domain utilizing the experience on expert domain. Tha key difficulty is that there always a huge discrepancy between expert and agent domains which brings challenge to obtain great performance for agent. This paper propose a new cross-domain RL setting with states only which are not paired and aligned, even without RL steps guided by the expert, and the method also achieves great performance."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-10-04T13:00:00Z"
+date_end: "2021-10-04T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-10-05T00:00:00Z"
 
 authors: []
 tags: []
